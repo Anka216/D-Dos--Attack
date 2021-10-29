@@ -1,5 +1,4 @@
 import random
-from scapy.all import *
 targetIP = raw_input("Hedef IP [Target IP]: ")
 i=1
  
